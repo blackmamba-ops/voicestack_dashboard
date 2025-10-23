@@ -34,7 +34,7 @@ A **Streamlit dashboard** for analyzing dental practice front desk calls. The da
 1. **Clone the repository**
 
 ```bash
-git clone 
+git clone https://github.com/blackmamba-ops/voicestack_dashboard.git
 cd Carestack_Assignment
 ````
 
